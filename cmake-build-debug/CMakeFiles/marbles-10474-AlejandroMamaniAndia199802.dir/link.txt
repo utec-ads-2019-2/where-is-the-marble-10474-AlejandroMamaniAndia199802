@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/marbles-10474-AlejandroMamaniAndia199802.dir/main.cpp.o  -o marbles-10474-AlejandroMamaniAndia199802 
